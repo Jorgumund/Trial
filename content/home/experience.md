@@ -54,14 +54,15 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Canada
-    date_start: '2022-01-01'
+    date_start: '2017-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Courses Assisted:
         
-        * Analyzing
-        * Modelling
-        * Deploying
+        * Statistics in Social Research (Soci - 350)
+        * Population and the Environment (Soci - 331)
+        * Population and Society (Soci - 234)
+        * Research Design for Sociology (Soci - 211)
 
         
 
