@@ -49,20 +49,19 @@ experience:
         * International Migration (Soci 212)
         * Statistics in Social Research (Soci-350)
   
-   - title: Teaching Assistant
+  - title: Teaching Assistant
     company: McGill University
     company_url: ''
-    company_logo: org-x
-    location: Montreal Canada
-    date_start: '2017-01-01'
+    company_logo: org-gc
+    location: Canada
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
-        Courses Assisted:
+        Responsibilities include:
         
-        * Population and the Environment (Soci - 331)
-        * Statistics in Social Research (Soci - 350)
-        * Research Design for Sociology (Soc - 211)
-        * Population and Society (Soc - 234)
+        * Analyzing
+        * Modelling
+        * Deploying
 
         
 
