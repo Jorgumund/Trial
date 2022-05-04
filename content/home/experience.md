@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Student Internship
-    company: Goverment ofCanada
+    company: Government of Canada
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Canada
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
@@ -48,6 +48,22 @@ experience:
         
         * International Migration (Soci 212)
         * Statistics in Social Research (Soci-350)
+  
+   - title: Teaching Assistant
+    company: McGill University
+    company_url: ''
+    company_logo: org-x
+    location: Montreal Canada
+    date_start: '2017-01-01'
+    date_end: ''
+    description: |2-
+        Courses Assisted:
+        
+        * Population and the Environment (Soci - 331)
+        * Statistics in Social Research (Soci - 350)
+        * Research Design for Sociology (Soc - 211)
+        * Population and Society (Soc - 234)
+
         
 
 
