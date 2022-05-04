@@ -75,4 +75,4 @@ W. Zachary Marshall is a sociology PhD student at McGill University. His researc
 
 Zachary has also had the oppurtunity to teach courses at McGill university, including the courses: Introduction to statistics (Soci-350), and international Migration (Soci-212).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
