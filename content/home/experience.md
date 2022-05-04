@@ -27,23 +27,43 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Analyzing
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Course Instructor
+    company: McGill University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Montreal Canada
+    date_start: '2020-01-01'
+    date_end: ''
+    description: |2-
+        Courses Taught:
+        
+        * International Migration (Soci 212)
+        * Statistics in Social Research (Soci-350)
+        
+   - title: Teaching Assistant
+    company: McGill University
+    company_url: ''
+    company_logo: org-x
+    location: Montreal Canada
+    date_start: '2017-01-01'
+    date_end: ''
+    description: |2-
+        Courses Assisted:
+        
+        * Population and the Environment (Soci - 331)
+        * Statistics in Social Research (Soci - 350)
+        * Research Design for Sociology (Soc - 211)
+        * Population and Society (Soc - 234)
+
 
 design:
   columns: '2'
