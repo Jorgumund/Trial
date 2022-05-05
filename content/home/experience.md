@@ -52,7 +52,7 @@ experience:
   - title: Teaching Assistant
     company: McGill University
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Canada
     date_start: '2017-01-01'
     date_end: ''
@@ -64,7 +64,20 @@ experience:
         * Population and Society (Soci - 234)
         * Research Design for Sociology (Soci - 211)
 
+  - title: Research Assistant
+    company: Various Projects at McGill University
+    company_url: ''
+    company_logo: org-x
+    location: Canada
+    date_start: '2017-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities Included:
         
+        * Data set construction
+        * Data cleaning and verification
+        * Descriptive analysis
+        * Moedling        
 
 
 design:
